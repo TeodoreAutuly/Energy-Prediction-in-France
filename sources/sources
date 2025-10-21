@@ -1,0 +1,42 @@
+Sources :
+
+- Dataset :
+https://www.kaggle.com/code/manualrg/daily-electricity-demand-forecast-machine-learning
+https://www.kaggle.com/code/stephanedc/consommation-electrique-avec-pandas/data
+https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
+https://www.kaggle.com/code/robikscube/pt2-time-series-forecasting-with-xgboost/notebook
+https://www.youtube.com/watch?v=vV12dGe_Fho
+https://www.youtube.com/watch?v=z3ZnOW-S550
+
+temperature:
+https://www.kaggle.com/datasets/unajtheb/homesteadus-electricity-consumption
+
+- XGBoost :
+https://datascientest.com/algorithmes-de-boosting-adaboost-gradient-boosting-xgboost
+https://blent.ai/xgboost-tout-comprendre/
+https://datacorner.fr/xgboost/
+https://datascientest.com/xgboost-grand-gagnant-des-competitions-machine-learning-algorithme
+https://datascience.eu/fr/programmation-informatique/xgboost/
+
+(Boosting lien mathématique : https://hal.archives-ouvertes.fr/hal-00326558/document )
+(Lien avec les maths : https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-app-agreg.pdf )
+(Un cas concret d'utilisation d'XGBoost : https://www.institutdesactuaires.com/docs/mem/b22bc48b9f8858867c7653eb8921e3d8.pdf )
+
+- Apprentissage Bayésien :
+https://www.youtube.com/watch?v=H1YjZSgBahQ
+
+- Autre (Source intéressante) :
+https://towardsdatascience.com/forecasting-energy-consumption-using-neural-networks-xgboost-2032b6e6f7e2
+
+- bouquin Mme hemery:
+    523-524: 530-534.
+
+- syntaxe markdown:
+https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md
+
+- MCOT:
+https://www.scei-concours.fr/pdf/AttendusPedagogiques_2023-decembre.pdf
+
+- BOXplot/boite à moustache:
+https://www.data-transitionnumerique.com/boite-moustache-boxplot/
+https://www.stat4decision.com/fr/le-box-plot-ou-la-fameuse-boite-a-moustache/

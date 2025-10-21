@@ -1,0 +1,15 @@
+# objectifs:
+
+    - d'ici toussaint : finir le modele statistique et avancer les premiers modèles en machine learning
+    - pendants les vacs de toussaint: mise en forme de la 1ere partie du tipe
+    - réfléchir aux améliorations des modèles(vacances).
+    - entre toussaint et noel: voir antoine pour partager nos idées d'améliorations-> commencer voir finir le modèle en machine learning 
+
+
+amélioration possible :
+- temperature+jour de la semaine
+
+
+####
+- mcot objectifs se mettre d'accord
+- 
